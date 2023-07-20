@@ -1,6 +1,6 @@
 [submodule "sdk-demo"]
-	path = sdk-1
+	path = sdk-demo
 	url = https://github.com/anggxyz/tb-sdk-demo.git
 [submodule "deploy-demo"]
-	path = tb-deploy-demo
+	path = deploy-demo
 	url = https://github.com/anggxyz/tb-deploy-demo
