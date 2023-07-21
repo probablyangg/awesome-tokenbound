@@ -1,6 +1,7 @@
 [submodule "deploy"]
 	path = deploy
 	url = https://github.com/anggxyz/tb-deploy-demo
+  branch = main
 [submodule "sdk"]
 	path = sdk-create-t3
 	url = https://github.com/anggxyz/tb-sdk-demo
