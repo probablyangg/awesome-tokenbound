@@ -4,3 +4,6 @@
 [submodule "sdk"]
 	path = sdk
 	url = https://github.com/anggxyz/tb-sdk-demo
+[submodule "sdk-create-wagmi"]
+	path = sdk-create-wagmi
+	url = https://github.com/anggxyz/tb-sdk-demo-create-wagmi
