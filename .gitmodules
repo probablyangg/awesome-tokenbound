@@ -2,7 +2,7 @@
 	path = deploy
 	url = https://github.com/anggxyz/tb-deploy-demo
 [submodule "sdk"]
-	path = sdk
+	path = sdk-create-t3
 	url = https://github.com/anggxyz/tb-sdk-demo
 [submodule "sdk-create-wagmi"]
 	path = sdk-create-wagmi
