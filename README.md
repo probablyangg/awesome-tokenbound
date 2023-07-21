@@ -1,5 +1,5 @@
 # Awesome Tokenbound
-Awesome list of all demos and examples built on top of the ERC6551 token standard.
+Curated list of all demos and examples built on top of the ERC6551 token standard.
 
 (This list is a WIP)
 
