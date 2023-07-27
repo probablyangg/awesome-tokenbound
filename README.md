@@ -12,3 +12,7 @@ uses the tokenbound SDK
 - [vite-wagmi-ethers](https://github.com/tokenbound/sdk/tree/main/examples/vite-wagmi-ethers): This is a wagmi + ConnectKit + Vite project bootstrapped with create-wagmi
 - [vite-wagmi-ethers6](https://github.com/tokenbound/sdk/tree/main/examples/vite-wagmi-ethers6): This is a wagmi + ConnectKit + Vite project bootstrapped with create-wagmi,it implements the Ethers v6 signer using viem's Ethers.js adapters in the useEthersSigner hook.
 - [vite-wagmi-ethers-rainbowkit](https://github.com/tokenbound/sdk/tree/main/examples/vite-wagmi-ethers-rainbowkit): This is a wagmi + RainbowKit + Vite project bootstrapped with create-wagmi. It implements the Ethers v5 signer using viem's Ethers.js adapters in the useEthersSigner hook.
+
+## Hackhaton projects that used TBA
+
+- [Quire](https://github.com/vikiival/quire) - Acquire a lens blog as TBA
